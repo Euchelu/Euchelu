@@ -4,6 +4,8 @@ Estudiante de **Ingeniería en Sistemas de Información** en la Universidad Pabl
 
 📍 Sevilla, España · 🎓 Fin del grado en 2027 · 🇬🇧 Inglés B2 · 🔎 Busco prácticas o un primer empleo
 
+🌐 **Portfolio:** [euchelu.github.io/portfolio](https://euchelu.github.io/portfolio/)
+
 ### Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
@@ -11,9 +13,9 @@ Estudiante de **Ingeniería en Sistemas de Información** en la Universidad Pabl
 | [**Firma digital con Viafirma**](https://github.com/Euchelu/certificado-electronico) | Autenticación con certificado X.509 y firma PAdES con sello QR | Java EE · iText · JUnit 5 |
 | [**UrbanField**](https://github.com/Euchelu/urbanfield) | Plataforma de reservas deportivas con API REST y clima en tiempo real | Django · PostgreSQL · Docker |
 | [**Auth API**](https://github.com/Euchelu/auth-api) | Autenticación con JWT, refresh tokens y sesión única por usuario | FastAPI · SQLAlchemy · bcrypt |
-| [**Task Manager API**](https://github.com/Euchelu/task-manager-api) + [**UI**](https://github.com/Euchelu/task-manager-ui) | API REST de tareas con su frontend en React | FastAPI · PostgreSQL · React |
+| [**Task Manager API**](https://github.com/Euchelu/task-manager-api) + [**UI**](https://github.com/Euchelu/task-manager-ui) · [🔗 demo](https://euchelu.github.io/task-manager-ui/) | API REST de tareas con su frontend en React | FastAPI · PostgreSQL · React |
 | [**Weather ETL Pipeline**](https://github.com/Euchelu/weather-etl-pipeline) | Extracción de datos de Open-Meteo, transformación y carga en PostgreSQL | Python · pandas · PostgreSQL |
-| [**DevOps Toolkit**](https://github.com/Euchelu/devops-toolkit) + [**Dashboard**](https://github.com/Euchelu/system-health-monitor) | Monitor de sistema con pipeline CI/CD de 4 etapas y dashboard en tiempo real | Python · GitHub Actions · React |
+| [**DevOps Toolkit**](https://github.com/Euchelu/devops-toolkit) + [**Dashboard**](https://github.com/Euchelu/system-health-monitor) · [🔗 demo](https://euchelu.github.io/system-health-monitor/) | Monitor de sistema con pipeline CI/CD de 4 etapas y dashboard en tiempo real | Python · GitHub Actions · React |
 | [**Testing Showcase**](https://github.com/Euchelu/testing-showcase) | Suites de tests en Java y JavaScript ejecutadas en paralelo | JUnit 5 · Jest |
 
 ### Tecnologías
@@ -35,5 +37,7 @@ Estudiante de **Ingeniería en Sistemas de Información** en la Universidad Pabl
 ### Contacto
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A1628?style=for-the-badge&logo=githubpages&logoColor=white)](https://euchelu.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-%C3%A1ngel-ceballos-rodr%C3%ADguez-a44996346/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:euchelu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-%C3%A1ngel-ceballos-rodr%C3%ADguez-a44996346/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:euchelu@gmail.com)
